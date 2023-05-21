@@ -1,0 +1,5 @@
+* Link drive project:
+- Model: https://drive.google.com/file/d/1VV2k3x1lk2HWNweLqILkylB4PnYQLdrq/view?usp=share_link
+- Data: https://drive.google.com/drive/folders/18l2aIKJuNj55w0Weba4O2Uc0z3NSxQYX?usp=share_link
+- Data transfered: https://drive.google.com/file/d/1omyPkQTpoUPYR8MeBT8K61E31_qXLgMx/view?usp=share_link
+- Label_Data transfered: https://drive.google.com/file/d/1-3KTGHlDBUjBmcuUqk0gfTXOsR_Y1YUP/view?usp=share_link
